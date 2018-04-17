@@ -1,0 +1,102 @@
+.col-1{
+	float: left;
+	width: 8.333333333%;
+}
+.col-2{
+	float: left;
+	width: 16.666666667%;
+}
+.col-3{
+	float: left;
+	width: 25%;
+}
+.col-4{
+	float: left;
+	width: 33.333333333%;
+}
+.col-5{
+	float: left;
+	width: 41.666666667%;
+}
+.col-6{
+	float: left;
+	width: 50%;
+}
+.col-7{
+	float: left;
+	width: 58.333333333%;
+}
+.col-8{
+	float: left;
+	width: 66.666666667%;
+}
+.col-9{
+	float: left;
+	width: 75%;
+}
+.col-10{
+	float: left;
+	width: 83.333333333%;
+}
+.col-11{
+	float: left;
+	width: 91.666666667%;
+}
+.container{
+	/*border: 1px solid red;*/
+}
+.top{
+	/*border: 1px solid orange;*/
+}
+ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.menu li{
+	float: left;
+	padding: 0 50px;
+}
+.clearfix{
+	clear: both;
+}
+.menu a{
+	display: block;
+	text-decoration: none;
+	color: #979797;
+}
+.menu li:hover{
+	border-bottom: 2px solid red;
+}
+.showContent{
+	/*border: 1px solid red;*/
+	margin-top: 100px;
+}
+.content{
+	/*border: 1px solid blue;*/
+	margin-bottom: 50px;
+}
+.adStyle{
+	text-align: center;
+	font-weight: bold;
+}
+.description{
+	/*border-bottom: 1px solid #e1e1e1;*/
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .2);
+}
+.spacingText1{
+	display: block;	
+}
+.spacingText2{
+	color: #61728d;
+	font-weight: bold;
+}
+.Info{
+	color: #979797;
+	padding: 12px 10px;	
+	border-bottom: 1px solid #e1e1e1;
+}
+.Info:hover{
+	background-color: #f6f8fc;
+	
+}
